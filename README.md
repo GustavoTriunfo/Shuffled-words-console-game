@@ -6,3 +6,5 @@ https://www.youtube.com/watch?v=Mvfwq9c0jno
 # Undertale?
 
 Yes, there are many references to the game. And if you like it, great. Enjoy! If you don't already know, this doesn't ruin the experience.
+<br>
+This is a console project, so it is recommended that it be reproduced in the Eclipse IDE, where it was generated.
